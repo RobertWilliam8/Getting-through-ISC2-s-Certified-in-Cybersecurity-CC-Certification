@@ -13,8 +13,8 @@ The ISC2 CC exam is part of ISC2’s initiative to make cybersecurity certificat
 5. Security Operations
 
 The exam consists of 100 multiple-choice questions and must be completed within 2 hours. It’s an excellent way to build a strong base before pursuing more advanced certifications like Security+, SSCP, or CISSP.
-**Supplemental Study Resources
-**
+Supplemental Study Resources
+
 While the ISC2 content was helpful, I needed more realistic practice questions and clarity on complex topics. That’s when I turned to **PassCertHub**
 
 **Why I Used PassCertHub**
